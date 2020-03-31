@@ -1,2 +1,1 @@
 ok batong
-hello world
